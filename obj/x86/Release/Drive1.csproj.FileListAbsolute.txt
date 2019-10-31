@@ -1,0 +1,12 @@
+F:\PROJECTS\Windows\С#\Stolb\Drive1\bin\Release\Drive1.exe
+F:\PROJECTS\Windows\С#\Stolb\Drive1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\PROJECTS\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.MainForm.resources
+F:\PROJECTS\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.Resource1.resources
+F:\PROJECTS\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.csproj.GenerateResource.Cache
+F:\PROJECTS\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.exe
+G:\Windows\С#\Stolb\Drive1\bin\Release\Drive1.exe
+G:\Windows\С#\Stolb\Drive1\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.MainForm.resources
+G:\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.Resource1.resources
+G:\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.csproj.GenerateResource.Cache
+G:\Windows\С#\Stolb\Drive1\obj\x86\Release\Drive1.exe
